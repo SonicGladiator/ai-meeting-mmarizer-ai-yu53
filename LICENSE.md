@@ -1,4 +1,4 @@
-# 
+# Gratuito AI Meeting Notes Summarizer plugins. Con IA en el borde y ética de la IA — optimizado para el máximo rendimiento.
 
 
 
